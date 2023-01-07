@@ -5,7 +5,7 @@
 
 - 🦴 In the future i would like to learn **Go**
 
-<h3 align="left">Connect with me: szymoslav#3597</h3>
+<h3 align="left">   </h3>
 <p align="left">
 </p>
 
