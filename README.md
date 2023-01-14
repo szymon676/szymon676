@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm szymon</h1>
 <h3 align="center">I'm passionate about backend technologies</h3>
 
-- 🌱 I’m currently learning python **Flask**
+- 🌱 I’m currently learning python **FastAPI**
 
 - 🦴 In the future i would like to learn **Go**
 
