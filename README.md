@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm szymon</h1>
 <h3 align="center">I'm passionate about backend technologies</h3>
 
-- 🌱 I’m currently learning python **FastAPI**
+- 🌱 I’m currently learning **Go**
 
-- 🦴 In the future i would like to learn **Go**
+- 🦴 In the future i would like to learn **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
