@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 🦴 In the future i would like to learn **JavaScript**
+- 🦴 In the future i would like to learn **More about Javascipt**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me by discord: soon there will be link</h3>
 <p align="left">
 </p>
 
