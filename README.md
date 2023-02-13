@@ -5,7 +5,7 @@
 
 - 🦴 In the future i would like to learn more about **Javascipt**
 
-<h3 align="left">Connect with me by discord: soon there will be link</h3>
+<h3 align="left">Connect with me by discord: szymoslav#3597</h3>
 <p align="left">
 </p>
 
