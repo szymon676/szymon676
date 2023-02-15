@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm szymon</h1>
 <h3 align="center">I'm passionate about backend technologies</h3>
 
-- 🌱 I’m currently learning **Go,MongoDB**
+- 🌱 I’m currently learning **Go-fiber,MongoDB**
 
-- 🦴 In the future i would like to learn more about **Javascipt**
+- 🦴 In the future i would like to learn more about **Typescript**
 
 <h3 align="left">Connect with me by discord: szymoslav#3597</h3>
 <p align="left">
