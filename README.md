@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Goals: write better Go, learn GCP<br>🤖 I'm currently working on my own framework Go-nimbus</p>
+<p align="left">🎯 Goals: write cleaner code, learn advanced concurrency in Go.<br>🤖 I'm currently working on microservices project for managing restaurant.</p>
 
 ###
 
