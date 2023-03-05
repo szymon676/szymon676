@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Goals: write cleaner code, learn advanced concurrency in Go.<br>🤖 I'm currently working on microservices project for managing restaurant.</p>
+<p align="left">🎯 Goals: write cleaner code, learn advanced concurrency in Go.<br>🤖 I'm currently working on microservices project for restaurant managment.</p>
 
 ###
 
